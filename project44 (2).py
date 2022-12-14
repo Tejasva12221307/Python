@@ -16,8 +16,5 @@ for i in range(start,end+1):
         print(i,"is prime")
         count_prime.append(i)
 print("Count:",len(count_prime),"prime and",len(count_comp),"composite numbers in the range")
-# made by
-# Tejasva Aghrahari
-# roll no:-45
-# registration no:-12221307
+
     
